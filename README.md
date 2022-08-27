@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kirannani168 [Ravikiran Reddy Balemla]
 - 👀 I’m interested in Programming ...
 - 🌱 I’m currently learning MERN Stack...
-- 💞️ visit rguktian.com
+- 💞️ visit https://rguktian.com/
 - 📫 How to reach me: B172297@rgukt.ac.in
 
 <!---
